@@ -1,4 +1,10 @@
+# Kanicbay
+
+## Personal Account
+
 ### Hi there 👋
+
+*Science Computer Student at [EPN] (https://www.epn.edu.ec/)*
 
 <!--
 **Kanicbay/Kanicbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
