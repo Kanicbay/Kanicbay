@@ -4,7 +4,7 @@
 
 ### Hi there 👋
 
-*Science Computer Student at [Escuela Politécnica Nacional](https://www.epn.edu.ec/)*
+*Computer Science Student at [Escuela Politécnica Nacional](https://www.epn.edu.ec/)*
 ![Github Stats Kanicbay](https://github-readme-stats.vercel.app/api?username=kanicbay&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)
 
 <!--
