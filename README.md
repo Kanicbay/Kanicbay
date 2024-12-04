@@ -4,7 +4,14 @@
 
 ### Hi there 👋
 
-*Computer Science Student at [Escuela Politécnica Nacional](https://www.epn.edu.ec/)*
+*Computer Science Engineer*
+
+I’m currently working on projects with Artificial Intelligence or Machine Learning Implementations. Also learning about Data Science to enhance my skills with Data.
+Check my portafolio on:
+- [DataCamp](https://www.datacamp.com/portfolio/kanicbay)
+- [LinkedIn](https://www.linkedin.com/in/briancoyago)
+
+
 
 ![Github Stats Kanicbay](https://github-readme-stats.vercel.app/api?username=kanicbay&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)
 
