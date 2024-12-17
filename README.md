@@ -6,7 +6,7 @@
 
 *Computer Science Engineer*
 
-I’m currently working on projects with Artificial Intelligence or Machine Learning Implementations. Also learning about Data Science to enhance my skills with Data.
+I’m Engineer with development experience who also is working on projects with Artificial Intelligence or Machine Learning Implementations. Also learning about Data Science to enhance my skills with Data.
 Check my portafolio on:
 - [DataCamp](https://www.datacamp.com/portfolio/kanicbay)
 - [LinkedIn](https://www.linkedin.com/in/briancoyago)
