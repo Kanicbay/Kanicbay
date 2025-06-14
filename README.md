@@ -2,7 +2,7 @@
 
 ## Hola a todos 👋
 
-Bienvenidos a mi perfil de GitHub, mi nombre es Brian Coyago y soy Ingeniero en Ciencias de la computación. El enfoque que tengo en mi perfil es sobre Inteligencia Artificial, Machine Learning y Deep Learning. Así mismo ciencia de datos y análisis de datos. Tambíen apasiona la ciencia y el estudio del cerebro humano, por lo que, tambíen tengo un enfoque hacia Neurociencias Computacionales. Espero que mi perfil te sea de agrado y puedas ver avanzo por este maravillo mundo utilizando la Ingeniería de Software como un medio también.
+Bienvenidos a mi perfil de GitHub, mi nombre es Brian Coyago y soy Ingeniero en Ciencias de la computación. El enfoque que tengo en mi perfil es sobre Inteligencia Artificial, Machine Learning y Deep Learning. Así mismo, ciencia de datos y análisis de datos. Tambíen apasiona la ciencia y el estudio del cerebro humano, por lo que, tambíen tengo un enfoque hacia Neurociencias Computacionales. Espero que mi perfil te sea de agrado y puedas ver avanzo por este maravillo mundo utilizando la Ingeniería de Software como un medio también.
 
 
 ###
