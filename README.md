@@ -1,31 +1,48 @@
 # Kanicbay
 
-## Personal Account
+## Hola a todos 👋
 
-### Hi there 👋
-
-*Computer Science Engineer*
-
-I’m Engineer with development experience who also is working on projects with Artificial Intelligence or Machine Learning Implementations. Also learning about Data Science to enhance my skills with Data.
-Check my portafolio on:
-- [DataCamp](https://www.datacamp.com/portfolio/kanicbay)
-- [LinkedIn](https://www.linkedin.com/in/briancoyago)
+Bienvenidos a mi perfil de GitHub, mi nombre es Brian Coyago y soy Ingeniero en Ciencias de la computación. El enfoque que tengo en mi perfil es sobre Inteligencia Artificial, Machine Learning y Deep Learning. Así mismo ciencia de datos y análisis de datos. Tambíen apasiona la ciencia y el estudio del cerebro humano, por lo que, tambíen tengo un enfoque hacia Neurociencias Computacionales. Espero que mi perfil te sea de agrado y puedas ver avanzo por este maravillo mundo utilizando la Ingeniería de Software como un medio también.
 
 
+###
 
-![Github Stats Kanicbay](https://github-readme-stats.vercel.app/api?username=kanicbay&count_private=true,issues&show_icons=true&show_owner=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kanicbay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanicbay&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<!--
-**Kanicbay/Kanicbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="30" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<div align="left">
+  <a href="https://www.datacamp.com/portfolio/kanicbay" target="_blank">
+    <img src="https://www.datacamp.com/datacamp.png" height="50" width="113.75" alt="datacamp logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/briancoyago" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" width="113.75" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
